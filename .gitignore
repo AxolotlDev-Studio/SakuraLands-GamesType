@@ -1,0 +1,20 @@
+*
+#####################
+# IS WHITELIST MODE #
+#####################
+
+# Source & Testing Files
+!src
+
+# Readme and License
+!LICENSE
+!README.md
+
+# Git
+!.gitignore
+
+# Gradle
+!/gradle
+!build.gradle.kts
+!settings.gradle.kts
+!gradlew*
